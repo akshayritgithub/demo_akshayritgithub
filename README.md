@@ -1,4 +1,4 @@
-# demo_akshayritgithub
+# Bank loan analyst project
 In this project we analyes the data then clean the data and create dashboard for visulation purpose.
 In Excel we create dashboard.
 in Power Bi we create dashboard.
